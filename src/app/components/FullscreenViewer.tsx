@@ -5,7 +5,7 @@ import {
   ChevronRight,
   Play,
   Pause,
-  Volume2,
+  // Volume2,
 } from "lucide-react";
 import { PortfolioItem } from "../data/portfolio-data";
 import { SocialShare } from "./SocialShare";
