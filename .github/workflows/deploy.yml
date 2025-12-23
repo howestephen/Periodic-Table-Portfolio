@@ -32,7 +32,7 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npm run build -- --base /figma-portfolio/
+        run: npm run build -- --base /Periodic-Table-Portfolio/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
